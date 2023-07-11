@@ -1,3 +1,5 @@
+// Program Number 9
+
 public class Product_of_L_and_S{
     public static void main(String[] args) {
         int[] n = {8, 3, 5, 2, 4, 7, 9, 1};

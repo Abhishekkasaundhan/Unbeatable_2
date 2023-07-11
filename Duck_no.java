@@ -1,3 +1,5 @@
+// Program Number 6
+
 import java.util.Scanner;
 
 public class Duck_no 

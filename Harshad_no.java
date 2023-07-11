@@ -1,3 +1,4 @@
+// Program Number 5
 import java.util.Scanner;
 
 public class Harshad_no 
