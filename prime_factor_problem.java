@@ -24,13 +24,13 @@ public class prime_factor_problem
         System.out.print("Enter the number : ");
         int nth = sc.nextInt(); 
 
-        int count = 0;
-        int num = 1;
+        int count = 0 , num = 1;
 
         while (count < nth) {
             if (is_Valid_Number(num)) 
             {
                 count++;
+
             }
             num++;
         }
